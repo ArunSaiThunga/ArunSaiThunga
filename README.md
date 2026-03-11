@@ -7,9 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ArunSaiThunga">
-    <img src="https://img.shields.io/github/followers/ArunSaiThunga?label=Followers&style=for-the-badge" />
-  </a>
   <a href="https://github.com/ArunSaiThunga?tab=repositories">
     <img src="https://img.shields.io/badge/Projects-Portfolio-blue?style=for-the-badge" />
   </a>
