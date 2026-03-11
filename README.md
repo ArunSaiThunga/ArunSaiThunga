@@ -7,16 +7,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge" />
+  <a href="https://github.com/ArunSaiThunga">
+    <img src="https://img.shields.io/github/followers/ArunSaiThunga?label=Followers&style=for-the-badge" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
+  <a href="https://github.com/ArunSaiThunga?tab=repositories">
     <img src="https://img.shields.io/badge/Projects-Portfolio-blue?style=for-the-badge" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/arunsaithunga/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:arunsaikumar.t@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -25,7 +25,7 @@
 
 # 👋 About Me
 
-I’m **Thunga**, an engineer focused on building **high-impact AI systems** that combine:
+I’m **Arun Sai Thunga**, an engineer focused on building **high-impact AI systems** that combines:
 
 - **Large Language Models**
 - **Computer Vision**
@@ -97,6 +97,8 @@ My goal is to build **intelligent end-to-end systems** — from raw data and mod
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/EnsembleModels-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Transormers-02569B?style=for-the-badge" />
 </p>
 
 ## LLM / NLP
@@ -138,7 +140,7 @@ My goal is to build **intelligent end-to-end systems** — from raw data and mod
 
 # 🌟 Featured Work
 
-> I’m building a portfolio of projects across **AI, ML, LLMs, CV, Data Engineering, and MLOps**.  
+> I’m building bussiness usecase projects across **AI, ML, LLMs, CV, Data Engineering, and MLOps**.  
 > The repositories below highlight my focus on **production-grade systems**, **real-world problem solving**, and **end-to-end engineering**.
 
 ## Project Showcase
@@ -171,16 +173,16 @@ These are the kinds of repositories I’m actively shaping my GitHub around:
 # 📈 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ArunSaiThunga&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunSaiThunga&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=ArunSaiThunga&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArunSaiThunga&theme=tokyonight" />
 </p>
 
 ---
@@ -188,7 +190,7 @@ These are the kinds of repositories I’m actively shaping my GitHub around:
 # 🏆 Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ArunSaiThunga&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
 </p>
 
 ---
@@ -218,10 +220,10 @@ These are the kinds of repositories I’m actively shaping my GitHub around:
 # 📫 Connect With Me
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/arunsaithunga/">
     <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:arunsaikumar.t@gmail.com">
     <img src="https://img.shields.io/badge/Email-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -229,7 +231,7 @@ These are the kinds of repositories I’m actively shaping my GitHub around:
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=ArunSaiThunga&style=for-the-badge" alt="profile views"/>
 </p>
 
 <p align="center">
