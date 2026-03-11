@@ -97,8 +97,8 @@ My goal is to build **intelligent end-to-end systems** — from raw data and mod
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/EnsembleModels-02569B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Transormers-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/EnsembleModels-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Transormers-0194E2?style=for-the-badge" />
 </p>
 
 ## LLM / NLP
