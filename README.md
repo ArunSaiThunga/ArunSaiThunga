@@ -201,7 +201,7 @@ These are the kinds of repositories I’m actively shaping my GitHub around:
   </a>
 </p>
 
-----
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ArunSaiThunga&style=for-the-badge" alt="profile views"/>
